@@ -1,6 +1,8 @@
 # Logistic Regression for Online Ad Click Prediction
 
-This project was developed by Jefferson Lobato during the Data Science and Machine Learning course at Asimov Academy. To learn more about Asimov Academy, visit the website https://asimov.academy/.
+This project was developed by Jefferson Lobato during the Data Science and Machine Learning course at Asimov Academy. To learn more about Asimov Academy, visit the website https://asimov.academy/. 
+
+To access the Jupyter notebook for this project, please visit https://github.com/JeffersonLobato/Online-Ad-Click-Prediction.
 
 The objective of this project is to create a logistic regression model that predicts whether an internet user will click on an ad based on demographic and online behavior data.
 
