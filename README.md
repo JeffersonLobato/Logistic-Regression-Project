@@ -35,7 +35,7 @@ The methodology used to create the logistic regression model consisted of:
 
 ## Results
 
-The created logistic regression model achieved an accuracy of 98% in predicting online ad clicks. The confusion matrix showed that the model performed well in classifying users who clicked on the ad as well as those who did not.
+The created logistic regression model achieved an **accuracy of 98%** in predicting online ad clicks. The confusion matrix showed that the model performed well in classifying users who clicked on the ad as well as those who did not.
 
 ## Conclusion
 
